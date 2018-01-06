@@ -1,4 +1,4 @@
-# FireEmergencyEvacuation
+# Fire Emergency Evacuation
 
 ## Building an Office Floor Map
 </br>
